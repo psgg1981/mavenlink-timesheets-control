@@ -14,9 +14,9 @@ Run the following command to install the dependencies
 
 ## Configuration
 
-1. Update your .env file with username and password
-2. Update your projects.csv file (1 project each line)
+1. Update `.env` file with username and password
+2. Update `projects.csv` file (1 project each line)
 
 ## Execution
 
-Run mvtsctl.
+`mvtsctl`
